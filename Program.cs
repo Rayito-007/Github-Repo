@@ -18,6 +18,9 @@ namespace Github_Repo
 
             // Esperar a que el usuario presione una tecla antes de cerrar la aplicación
             Console.WriteLine("Presiona cualquier tecla para salir...");
+
+            Console.WriteLine("Adios");
+
             Console.ReadKey();
         }
     }
